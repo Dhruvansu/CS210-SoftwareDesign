@@ -1,5 +1,4 @@
 //Dhruv Thakkar
-//Anthony Russo
 
 package HelloWorld.Dhruv;
 /*
